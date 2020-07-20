@@ -93,5 +93,5 @@ pipeline {
                 enableConfigSubstitution: true
             )
         }
-    }    
+    }
 }
